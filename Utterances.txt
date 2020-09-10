@@ -1,0 +1,20 @@
+GetNewFactIntent a fact
+GetNewFactIntent a game fact
+GetNewFactIntent a video game fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a game fact
+GetNewFactIntent tell me a video game fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a game fact
+GetNewFactIntent give me a video game fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a game trivia
+GetNewFactIntent tell me a video game trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a game trivia
+GetNewFactIntent give me a video game trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some game information
+GetNewFactIntent give me some video game information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
